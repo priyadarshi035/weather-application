@@ -4,7 +4,7 @@
 
 This project provides a user interface to query the Weather Company Data for IBM Bluemix service.
 
-[![Deploy to Bluemix](https://deployment-tracker.mybluemix.net/stats/a15ae39863da63802a6babd1c8c67310/button.svg)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/insights-weather.git)
+[![Deploy to Bluemix](https://deployment-tracker.mybluemix.net/stats/a15ae39863da63802a6babd1c8c67310/button.svg)](https://bluemix.net/deploy?repository=https://github.com/priyadarshi035/weather-application.git)
 
 ## Running the app on Bluemix
 
@@ -17,7 +17,7 @@ This project provides a user interface to query the Weather Company Data for IBM
 3. Clone the app to your local environment from your terminal using the following command
 
   ```
-  git clone https://github.com/IBM-Bluemix/insights-weather.git
+  git clone https://github.com/priyadarshi035/weather-application.git
   ```
 
 4. cd into this newly created directory
